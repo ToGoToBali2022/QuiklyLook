@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorJu">#FF8040</color>
+    <color name="colorHuang">#FFFF80</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorCoffer">#804040</color>
+    <color name="colorHui">#808080</color>
+
+</resources>
